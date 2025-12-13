@@ -1,0 +1,23 @@
+-Descriere: Utilizatorul poate sa aplice la un proiect fara a fi logat
+-Tipul de test case: Ui, compatibility, security, positive testing, black box
+-Prioritate: Hight
+-Statutul de automatizare: Nu
+-Preconditii: 
+Dispozitiv
+Acces internet
+Browser
+-Mediu de testare: https://www.utest.com/ 
+-Pasi de testare: 
+1. POrneste dispozitivul
+2. Conecteazate la Internet
+3. Deschide un browser
+4. Tasteaza in bara de cautare textul ,,www.utest.com,,
+5. Apasa tasta ,,Enter,,
+6. Da click pe butonul ,,Projects,,
+7. Da click pe un proiect oarecare
+-Rezultatul asteptat: Utilizatorul poate sa se inscrie la proiect fara a fi logat
+-Rezultatul actual: Utilizatorul NU poate sa se inscrie la proiect fara a fi logat
+-Test data: https://www.utest.com/ setat in limba engleza
+-Nume QA: Marusica
+-Data si ora: 21:40,  12/13/2025
+
