@@ -1,5 +1,5 @@
 -Descriere: Utilizatorul poate sa se logheze pe site cu date valide
--Tipul de test case: Ui, compatibility, 
+-Tipul de test case: Ui, compatibility, security, positive testing, black box
 -Prioritate: Hight
 -Statutul de automatizare: Nu
 -Preconditii: 
@@ -24,3 +24,4 @@ Da click pe butonul ,,Sign in,,
 -Test data: https://www.utest.com/ setat in limba engleza
 -Nume QA: Marusica
 -Data si ora: 21:15,  12/13/2025
+
