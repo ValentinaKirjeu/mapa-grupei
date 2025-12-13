@@ -1,0 +1,51 @@
+Descriere: Utilizatorul poate sa se logheze pe site cu date valide
+
+Tipul de test case: Ui, compatibility, 
+
+Prioritate: Hight
+
+Statutul de automatizare: Nu
+
+Preconditii: 
+
+Dispozitiv
+
+Acces internet
+
+Browser
+
+Cont creat
+
+Mediu de testare: https://www.utest.com/ 
+
+Pasi de testare: 
+
+POrneste dispozitivul
+
+Conecteazate la Internet
+
+Deschide un browser
+
+Tasteaza in bara de cautare textul ,,www.utest.com,,
+
+Apasa tasta ,,Enter,,
+
+Da click pe butonul ,,Log In,,
+
+Introdu in caseta de text posta ta electronica
+
+Da click pe butonul ,,Continuie,,
+
+Introdu parola
+
+Da click pe butonul ,,Sign in,,
+
+Rezultatul asteptat: Utilizatorul poate sa se logheze pe site cu date valide
+
+Rezultatul actual: Utilizatorul se poate loga.
+
+Test data: https://www.utest.com/ setat in limba engleza
+
+Nume QA: Marusica
+
+Data si ora: 21:15,  12/13/2025
