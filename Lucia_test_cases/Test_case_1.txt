@@ -1,0 +1,70 @@
+Utilizatorul isi poate crea un cont nou
+
+Descriere: Utilizatorul isi poate crea un cont nou
+
+Tip test case: UI, security, positive testing, black box
+
+Prioritate: High
+
+Statut de automatizare: Nu
+
+Preconditii: 
+
+- dispozitiv computer
+- internet acces
+- browser
+
+Mediu de testare: www.utest.com, setat in limba engleza
+
+Pasi de testare:  
+
+1. Porneste dispozitivul
+2. Conecteaza la reteaua de internet
+3. Deschide browserul
+4. Tapeaza textul "www.utest.com" in bara de cautare
+5. Apasa tasta "Enter"
+6. Da click pe butonul "Join Now"
+7. Tapeaza in campul "First Name" prenumele "Lucia"
+8. Tapeaza in campul "Last Name" numele "Rosca"
+9. Tapeaza in campul "Email address" adresa "lucia@gmail.com"
+10. Completează "Date of birth" prin selectarea lunii, zilei și anului din câmpurile dedicate
+11. Da click pe butonul "Next: Location"
+12. Tapeaza in campul "City" orasul "Chisinau"
+13. Tapeaza in campul "Zip or Postal Code" numarul "MD-2068"
+14. Selecteaza in campul "Country"tara "Moldova, Republic of"
+15. Da click pe butonul "Next: Devices"
+16. Selecteaza in campul "Your Computer" - "Windows"
+17. Selecteaza in campul "Version" - "10"
+18. Selecteaza in campul "Language" - "English"
+19. Selecteaza in campul "Your Mobile Device" - "Apple"
+20. Selecteaza in campul "Model" - "iPhone 15 Pro Max"
+21. selecteaza in campul "Operating System" - "iOS 18.7.2"
+22. Da click pe butonul "Next: Last Step"
+23. Tapeaza in campul "Create your UTest password" parola "sat-JB*9,!dMU7V"
+24. Tapeaza "sat-JB*9,!dMU7V" in campul "Confirm password" 
+25. Da click pe toate elementele checkbox
+26. Da click pe butonul "Complete Setup"
+27. Selectează imaginile conform instrucțiunilor pentru verificarea utilizatorului
+28. Da click pe butonul "Verify"
+
+Rezultatul asteptat: Utilizatorul isi poate crea un cont nou
+
+Rezultatul actual: Utilizatorul isi poate crea un cont nou
+
+Test data:
+
+"www.utest.com", in calitate de adresa de productie
+"Lucia", in calitate de prenume
+"Rosca", in calitate de nume 
+"lucia@gmail.com", in calitate de adresa de email
+"Chisinau", in calitate de oras
+"MD-2068", in calitate de cod postal
+"sat-JB*9,!dMU7V", in calitate de parola
+
+Atasament: 1.jpg
+
+Statut de executare: Passed
+
+Nume QA: Rosca Lucia
+
+Data si ora: 13.12.2025, 21:10

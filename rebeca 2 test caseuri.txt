@@ -1,0 +1,64 @@
+Test case Nr1 
+Nume: Utilizatorul se poate loga
+Descrierea: Utilizatorul se poate loga 
+Prioritate: High
+Tipul de test: UI, Usability, Security, Black-box, Positiv
+Status de automatizare:Nu
+Preconditii:
+-Dispozitiv
+-Acces la internet
+-Browser
+-Cont logat
+Mediu de testare:"www.utest.com", setat in limba engleza
+Pasii de testare:
+1.Porneste dispozitivul
+2.Conecteaza-te la internet
+3.Deschide browserul
+4.Tapeaza textul:"www.utest.com",in bara de cautare
+5.Click pe: "Log In"
+6.Click pe campul de logare
+7.Introduce adresa electronica
+8.Click pe: "Cotinue"
+9.Introduce parola
+10.Click pe: "Log In"
+Test data:"www.utest.com"
+Rezultatul asteptat: Utilizatorul se poate loga
+Rezultatul actual: Utilizatorul se poate loga
+Atasare:jpg
+Statutul executarii: Passed
+Nume QA: Cebotaru Rebeca
+Data/Ora: 13.12.25/15:15
+
+Test case Nr2
+Nume: Utilizatorul poate aplica la un proiect
+Descrierea: Utilizatorul poate aplica la un proiect
+Prioritate: High
+Tipul de test: Usability, Black-box, Positiv
+Status de automatizare:Nu
+Preconditii:
+-Dispozitiv
+-Acces la internet
+-Browser
+-Cont logat
+-Proiecte active
+Mediu de testare:"www.utest.com", setat in limba engleza
+Pasii de testare:
+1.Porneste dispozitivul
+2.Conecteaza-te la internet
+3.Deschide browserul
+4.Tapeaza textul:"www.utest.com",in bara de cautare
+5.Se autentifica: (login si parola)
+6.Click pe: "Projects"
+7.Click pe: "Projects Board"
+8.Click pe orice proiect disponibil
+9.Scroll down
+10.Click pe: "Apply"
+Test data:"www.utest.com"
+Rezultatul asteptat: Utilizatorul poate aplica la un proiect 
+Rezultatul actual: Utilizatorul poate aplica la un proiect
+Atasare:jpg
+Statutul executarii: Passed
+Nume QA: Cebotaru Rebeca
+Data/Ora: 13.12.25/15:15
+
+

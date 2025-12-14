@@ -1,0 +1,48 @@
+Utilizatorul se poate loga pe platforma
+
+Descriere: Utilizatorul se poate loga pe platforma
+
+Tip test case: UI, security, positive testing, black box
+
+Prioritate: High
+
+Statut de automatizare: Nu
+
+Preconditii: 
+
+- dispozitiv computer
+- internet acces
+- browser
+
+Mediu de testare: www.utest.com, setat in limba engleza
+
+Pasi de testare:  
+
+1. Porneste dispozitivul
+2. Conecteaza la reteaua de internet
+3. Deschide browserul
+4. Tapeaza textul "www.utest.com" in bara de cautare
+5. Apasa tasta "Enter"
+6. Da click pe butonul "Log In"
+7. Tapeaza in campul "Email Address: (Required)" - "lucia@gmail.com"
+8. Da click pe butonul "Continue"
+8. Tapeaza in campul "Password: (Required)" - "sat-JB*9,!dMU7V"
+9. Da click pe butonul "Sign in"
+
+Rezultatul asteptat: Utilizatorul se poate loga pe platforma
+
+Rezultatul actual: Utilizatorul se poate loga pe platforma
+
+Test data:
+
+"www.utest.com", in calitate de adresa de productie
+"lucia@gmail.com", in calitate de adresa de email
+"sat-JB*9,!dMU7V", in calitate de parola
+
+Atasament: 2.jpg
+
+Statut de executare: Passed
+
+Nume QA: Rosca Lucia
+
+Data si ora: 13.12.2025, 21:50
