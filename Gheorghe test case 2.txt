@@ -1,0 +1,30 @@
+Test case Nr.2
+Nume: Utilizatorul se poate alatura la un proiect
+Descriere: Utilizatorul se poate alatura la un proiect
+Prioritate: High
+Tipul de test: UI, Usability, black box, positive, security
+Statut de automatizare: Nu
+Preconditii:
+- Dispozitiv
+- Acces la internet
+- Browser
+- Cont logat
+Mediu de testare: www.utest.com, setat in limba engleza
+Pasi de reproducere:
+1. Porneste dispozitivul
+2. Conecteaza-te la internet
+3. Deschide browser-ul
+4. Tapeaza textul "www.utest.com" in bara de cautare
+5. Autentifica-te (prin login si parola)
+6. Da click pe Projects
+7. Da click pe Projects Board
+8. Selecteaza proiectul
+9. Da scroll in jos
+10. Da click pe "Apply"
+Test data: "www.utest.com"
+Rezultatul asteptat: Utilizatorul se poate alatura la un proiect
+Rezultatul actual: Utilizatorul se poate alatura la un proiect
+Atasament: 4.jpg
+Statutul executarii: Passed
+Nume QA: Soltan Gheorghe
+Data si ora: 14.12.2025 09:10

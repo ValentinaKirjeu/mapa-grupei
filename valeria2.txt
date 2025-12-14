@@ -1,0 +1,50 @@
+                                         Utilizatorul se poate loga pe uTest
+
+
+Descdriere: utilizatorul se poate loga pe uTest, folosind versiunea computer
+
+Tipul test case: UI, security, compatibility, black-box
+
+Prioritate: high
+
+Automatizare: nu
+
+Preconditii: 
+computer
+acces internet
+browser
+
+Environment: www.utest.com 
+
+Test steps:
+1. porneste computerul
+2. conecteaza internetul
+3. deschide browserul
+4. tapeaza 'www.utest.com' in bara de cautare
+5. apasa tasta 'Enter'
+6. mergi spre dreapta paginii deschise
+7. da click pe butonul 'Log in'
+8. da click pe optiunea 'Sing up'
+9. introdu datele personale cerute
+10. da click pe butonul 'Next: Location'
+11. introdu datele cerute reale
+12. da click pe butonul 'Next: Devices'
+13. introdu datele cerute reale
+14. da click pe butonul 'Next: Last Step'
+15. introdu o parola
+16. da click pe butonul 'Complete Setup'
+
+Rezultatul asteptat: Utilizatorul se poate loga pe uTest
+
+Rezultatul actual: Utilizatorul se poate loga pe uTest
+
+Test data: 
+1. 'www.utest.com' in calitate de adresa paginii
+
+Atasament: (nu)
+
+Statut de executare: passed
+
+Numele QA: Dem Valeria
+
+Data si ora: 13.12.2025, 18:45

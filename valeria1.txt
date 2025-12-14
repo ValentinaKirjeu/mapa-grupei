@@ -1,0 +1,40 @@
+                                        Textul este afisat pe prima pagina
+
+
+Descdriere: textul este afisat pe prima pagina utest
+
+Tipul test case: UI
+
+Prioritate: highest
+
+Automatizare: nu
+
+Preconditii: 
+dispozitiv electronic
+acces internet
+browser
+
+Environment: www.utest.com 
+
+Test steps:
+1. porneste dispozitivul electronic
+2. conecteaza internetul
+3. deschide browserul
+4. tapeaza 'www.utest.com' in bara de cautare
+5. apasa tasta 'Enter'
+6. observa textul paginii deschise
+
+Rezultatul asteptat: extul este afisat pe prima pagina
+
+Rezultatul actual: extul este afisat pe prima pagina
+
+Test data: 
+1. 'www.utest.com' in calitate de adresa paginii
+
+Atasament: (nu)
+
+Statut de executare: passed
+
+Numele QA: Dem Valeria
+
+Data si ora: 13.12.2025, 18:47
