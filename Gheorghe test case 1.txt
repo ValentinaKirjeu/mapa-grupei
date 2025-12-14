@@ -1,0 +1,28 @@
+Test case Nr.1
+Nume: Utilizatorul poate crea cont
+Descriere: Utilizatorul poate crea cont
+Prioriate: High
+Tipul de test: UI, Usability, Security, Positive
+Statut de automatizare: Nu
+Preconditii:
+- Dispozitiv
+- Acces la internet
+- Browser
+Mediu de testare: www.utest.com, setat in limba engleza
+Pasi de reproducere:
+1. Porneste dispozitivul
+2. Conecteaza-te la internet
+3. Deschide browser-ul
+4. Tapeaza textul: "www.utest.com" in bara de cautare
+5. Click pe: "Join now"
+6. Introduce adresa de e-mail, parola și detaliile necesare valide
+7. Apasa pe "Complete Setup"
+8. Verifica E-mailul
+9. Click pe "Log In"
+Test data: "www.utest.com"
+Rezultatul asteptat: Utilizatorul poate crea cont
+Rezultatul actual: Utilizatorul poate crea cont
+Atasament: 1.jpg
+Statut de executare: Passed
+Nume QA: Soltan Gheorghe
+Data si ora: 14.12.2025 08:33
